@@ -9,8 +9,8 @@ window.onload = function () {
   //write your code here
 
   let pronoun = ['the', 'our', "my", "your"];
-  let adj = ['great', 'big', "special", "random"];
-  let noun = ['jogger', 'racoon', "rat", 'domain'];
+  let adj = ['great', 'juicy', "special", "random"];
+  let noun = ['kitty', 'grapes', "rat", 'domain'];
   let extention = [".com", ".net", ".any", '.notExe']
   let domain = ""
 
